@@ -1,5 +1,5 @@
 # PROGRAMACIÓN 1
-Curso de Programación 1 CBTIS225
+Curso de Programación 1
 
 
 ### Bienvenido al curso inicial de programación en lenguaje C.
